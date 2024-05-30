@@ -28,3 +28,4 @@ I will be sharing the backend part of it also. You can create a database and che
 
 This is the link for BACKEND GIT REPO:-      https://github.com/Sai-Raghava-B/Movie-Backend
 
+The Deployed Link Of App : - https://movie-front-end-omega.vercel.app/
